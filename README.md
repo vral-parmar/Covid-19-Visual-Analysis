@@ -12,3 +12,6 @@ i following Datasets https://raw.githubusercontent.com/datasets/covid-19/master/
 Currently date set to Manually you can remove that :P 
 
 just Comment last yesterday variable :)
+
+
+    https://youtu.be/X8N-C8ZqgVA
